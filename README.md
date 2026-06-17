@@ -1,5 +1,5 @@
 **⚠️ This is currently under development, dont use it yet if you're not comfortable with constantly merging new changes**
-
+pls work
 # `Cloudstream3 Plugin Repo Template`
 
 Template for a [Cloudstream3](https://github.com/recloudstream) plugin repo
